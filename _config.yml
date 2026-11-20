@@ -1,0 +1,10 @@
+title: Radhika Saraf
+description: Notes on architecture, responsible AI and financial services technology.
+url: https://saraf-radhika.github.io
+author: Radhika Saraf
+permalink: /blog/:year/:title/
+markdown: kramdown
+plugins:
+  - jekyll-feed
+exclude:
+  - README.md
